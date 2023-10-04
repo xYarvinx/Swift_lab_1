@@ -14,6 +14,7 @@
 		D586307B2AC85D8A0093034E /* lab_1_1.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = D58630792AC85D8A0093034E /* lab_1_1.xcdatamodeld */; };
 		D586307D2AC85D8C0093034E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D586307C2AC85D8C0093034E /* Assets.xcassets */; };
 		D58630802AC85D8C0093034E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D586307E2AC85D8C0093034E /* LaunchScreen.storyboard */; };
+		D59D52EF2ACD1B1B0082E531 /* AppVibration.swift in Sources */ = {isa = PBXBuildFile; fileRef = D59D52EE2ACD1B1B0082E531 /* AppVibration.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		D586307C2AC85D8C0093034E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D586307F2AC85D8C0093034E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D58630812AC85D8C0093034E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D59D52EE2ACD1B1B0082E531 /* AppVibration.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppVibration.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				D58630702AC85D8A0093034E /* AppDelegate.swift */,
 				D58630722AC85D8A0093034E /* SceneDelegate.swift */,
 				D58630742AC85D8A0093034E /* ViewController.swift */,
+				D59D52EE2ACD1B1B0082E531 /* AppVibration.swift */,
 				D58630762AC85D8A0093034E /* Main.storyboard */,
 				D586307C2AC85D8C0093034E /* Assets.xcassets */,
 				D586307E2AC85D8C0093034E /* LaunchScreen.storyboard */,
@@ -143,6 +146,7 @@
 			files = (
 				D58630752AC85D8A0093034E /* ViewController.swift in Sources */,
 				D58630712AC85D8A0093034E /* AppDelegate.swift in Sources */,
+				D59D52EF2ACD1B1B0082E531 /* AppVibration.swift in Sources */,
 				D58630732AC85D8A0093034E /* SceneDelegate.swift in Sources */,
 				D586307B2AC85D8A0093034E /* lab_1_1.xcdatamodeld in Sources */,
 			);
